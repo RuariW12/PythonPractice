@@ -1,0 +1,1 @@
+In this python practice file, I utilized this youtube course: https://www.youtube.com/watch?v=ix9cRaBkVe0&list=PLZPZq0r_RZON03iKBjYOsOKr1-TD7z2lH to master the fundamentals and explore different uses of python.
